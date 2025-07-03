@@ -57,9 +57,9 @@ Requires no manual deployment steps
 
 📦 How to Run Locally
 
-git clone https://github.com/your-username/todo-ci-cd.git
+git clone https://ABHINAVKANDIKATLA.github.io/
 cd todo-ci-cd
-# Open index.html in your browser
+
 
 
 ---
